@@ -1,0 +1,3 @@
+[submodule "connectivity"]
+	path = connectivity
+	url = git@github.com:OrestisKan/kotlin-birthday-connect.git
